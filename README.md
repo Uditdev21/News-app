@@ -13,11 +13,13 @@ A modern Flutter News App that fetches real-time news articles using NewsAPI, wi
 - ✔️ Error handling for missing images & API failures
 - ✔️ GetX for state management & navigation
 
-## 📸 Screenshots
+## 📸 Screenshots & Preview
 - Splash Screen
 - News List
 - News Details
 - WebView
+
+🎥 **[Watch App Preview Video](https://drive.google.com/file/d/1yrsbJi9OCs1XRV9QcEuYhlTnpBVaxHJG/view?usp=sharing)**
 
 ## 🚀 Tech Stack
 - **Flutter (Dart)** – Mobile framework
